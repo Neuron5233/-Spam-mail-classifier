@@ -1,0 +1,2 @@
+#  Spam mail classifier
+ 
